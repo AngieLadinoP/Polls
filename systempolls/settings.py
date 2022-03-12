@@ -22,7 +22,7 @@ ALLOWED_HOSTS = []
 
 INSTALLED_APPS = [
     # tell the project that the polls app iss installed
-   'polls.apps.PollsConfig',
+    'polls.apps.PollsConfig',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
